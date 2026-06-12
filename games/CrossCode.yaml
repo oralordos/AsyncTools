@@ -101,6 +101,7 @@
       option_result: observatory
       options:
         CrossCode:
+          quest_rando: true
           enable_dlc:
             'false': 30
             'true': 20
